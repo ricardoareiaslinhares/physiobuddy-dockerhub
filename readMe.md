@@ -18,4 +18,5 @@ Na coleção do postman tem a _flow_ do processo de negócio. As bases de dados 
 A cache está implementada no _endpoint_ 10.2.  Os dados da cache expiram após 20 segundos de serem guardados.
 
 O serviço de _upload_ está no _endpoint_ 10Versao2. A coleção do postman não mantem o vídeo, por isso será necessário incluir um vídeo em body - form-data - video
+
 Nota: se testar mais que uma vez, deve mudar o nome do exercíco.
