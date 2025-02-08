@@ -6,7 +6,7 @@ O presente repositório aplica a arquitetura de microsserviços de suporte à ap
 Para usar este sistema basta clonar o repositório e correr o docker-compose que vai buscar as imagens ao meu dockerhub. Já o repositório com as implementações dos serviços pode ser acedido [aqui](https://github.com/orgs/app-physiobuddy/repositories)
 
 
-Depois, para o message broker funcionar, é necessário:
+Depois, para o message broker (EMQX mqtt) funcionar, é necessário:
 - 1. Abrir o dashboard com user:admin e pass:password
 - 2. Criar utilizador de autenticação com todos os passos _default_ e com user:pb e password:password (superuser=false)
 
