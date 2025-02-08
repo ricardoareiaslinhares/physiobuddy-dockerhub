@@ -3,7 +3,7 @@
 O presente repositório aplica a arquitetura de microsserviços de suporte à aplicação PhisioBuddy. Este sistema foi desenvolvido para a disciplina Projeto de Computação na Cloud no âmbito do Mestrado em Engenharia Informática do IPCA (24/25)
 
 
-Para usar este sistema basta clonar o repositório e correr o docker-compose que vai buscar as imagens ao meu dockerhub.
+Para usar este sistema basta clonar o repositório e correr o docker-compose que vai buscar as imagens ao meu dockerhub. Já o repositório com as implementações dos serviços pode ser acedido aqui [aqui](https://github.com/orgs/app-physiobuddy/repositories)
 
 
 Depois, para o message broker funcionar, é necessário:
